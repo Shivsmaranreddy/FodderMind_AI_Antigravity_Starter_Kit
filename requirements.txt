@@ -1,0 +1,1 @@
+# Antigravity: add only lightweight, justified dependencies after architecture approval.
