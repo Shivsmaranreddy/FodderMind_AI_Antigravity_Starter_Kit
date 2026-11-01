@@ -1,0 +1,22 @@
+[
+  "tests/integration/test_full_simulation.py::test_full_simulation_run_and_reproducibility",
+  "tests/integration/test_rl_training_pipeline.py::test_fast_ppo_training_and_checkpoint",
+  "tests/integration/test_rl_training_pipeline.py::test_matched_benchmark_evaluation",
+  "tests/unit/test_animal_energetics.py::test_pen_maintenance_requirements",
+  "tests/unit/test_animal_energetics.py::test_positive_growth_on_balanced_ration",
+  "tests/unit/test_animal_energetics.py::test_weight_loss_on_starvation",
+  "tests/unit/test_fodder_simulation.py::test_field_plot_regrowth_and_harvest",
+  "tests/unit/test_fodder_simulation.py::test_hydroponic_rack_seeding_and_cycle",
+  "tests/unit/test_gym_env.py::test_deterministic_seed_reproducibility",
+  "tests/unit/test_gym_env.py::test_gym_env_spaces",
+  "tests/unit/test_gym_env.py::test_gym_env_step_contract",
+  "tests/unit/test_gym_env.py::test_safety_shield_acidosis_intervention",
+  "tests/unit/test_inventory_fifo.py::test_green_fodder_spoilage_expiration",
+  "tests/unit/test_inventory_fifo.py::test_inventory_fifo_withdrawal",
+  "tests/unit/test_ration_lp.py::test_lp_feasible_ration",
+  "tests/unit/test_ration_lp.py::test_lp_infeasible_when_stock_empty",
+  "tests/unit/test_schemas.py::test_feed_item_invalid_ranges_raise_error",
+  "tests/unit/test_schemas.py::test_pen_profile_validation",
+  "tests/unit/test_schemas.py::test_valid_feed_item_creation",
+  "tests/unit/test_schemas.py::test_validate_feed_library_df"
+]
