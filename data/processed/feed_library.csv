@@ -1,0 +1,7 @@
+name,category,dry_matter_pct,crude_protein_pct_dm,metabolizable_energy_mj_kg_dm,ndf_pct_dm,unit_cost_as_fed,provenance_source,evidence_status,notes
+Hydroponic_Maize_Green,green_fodder_hydroponic,16.0,13.5,10.8,38.0,2.50,FAO Feedipedia / ICAR-NIANP,sourced,7-day sprouted green fodder including seed mat
+Hybrid_Napier_Green,green_fodder_field,20.0,9.5,8.2,58.0,1.20,FAO Feedipedia (node 268),sourced,Perennial cut-and-carry field fodder 30-day regrowth
+Sorghum_Stover_Hay,dry_roughage,90.0,4.5,6.5,68.0,6.00,ICAR 2013 Small Ruminant Tables,sourced,Sun-cured cereal stover roughage
+Maize_Grain_Cracked,concentrate,88.0,9.0,13.2,11.0,24.00,FAO Feedipedia (node 268),sourced,High energy cereal grain supplement
+Wheat_Bran,concentrate,89.0,15.0,10.5,42.0,21.00,FAO Feedipedia (node 715),sourced,Medium protein cereal byproduct
+Cottonseed_Cake,concentrate,91.0,24.0,10.8,34.0,32.00,ICAR 2013 Standards,sourced,High protein oilseed meal supplement

@@ -1,1 +1,16 @@
-# Antigravity: add only lightweight, justified dependencies after architecture approval.
+# FodderMind AI - Core Dependencies
+# Target Architecture: Windows 10, Intel Pentium G4400 (2 Cores), 8 GB RAM, Zero-cost stack
+
+# Numerical and Data Science Stack
+numpy>=1.26.0
+pandas>=2.1.0
+scipy>=1.12.0
+
+# User Interface & Testing
+streamlit>=1.30.0
+pytest>=8.0.0
+
+# Reinforcement Learning & Simulation Stack
+gymnasium>=1.0.0
+stable-baselines3>=2.0.0
+torch>=2.0.0
